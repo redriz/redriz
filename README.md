@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-**redriz/redriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Adonai Rodriguez** or _redriz_ if you prefer.
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning JavaScript and C++.
+- 📚 I’m currently learning JavaScript and C++.
 
